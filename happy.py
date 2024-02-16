@@ -1,2 +1,5 @@
-print("Hello world")
+def textinho(texto):
+    return textinho
+
+textinho='texto'
 
